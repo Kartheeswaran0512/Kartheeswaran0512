@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Kartheeswaran K
-
-<h3 align="center">
-Full Stack Developer | React Native Developer | AI Application Builder
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kartheeswaran%20K&fontSize=40&fontColor=fff&animation=fadeIn"/>
 
 <p align="center">
-Building scalable web and mobile applications with modern technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Developer;AI+Application+Builder" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kartheeswaran0512&color=6f42c1&style=for-the-badge" />
+</p>
 
 ---
 
@@ -20,11 +19,9 @@ Building scalable web and mobile applications with modern technologies.
 - 🧩 Strong foundation in **Data Structures & Algorithms**
 - ☁️ Exploring **Cloud, Docker and DevOps practices**
 
-
 ---
 
 # 🧰 Tech Stack
-
 
 ### Frontend
 
@@ -32,13 +29,11 @@ Building scalable web and mobile applications with modern technologies.
 <img src="https://skillicons.dev/icons?i=angular,react,reactnative,typescript,javascript,html,css,tailwind" />
 </p>
 
-
 ### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
 </p>
-
 
 ### Database
 
@@ -46,13 +41,11 @@ Building scalable web and mobile applications with modern technologies.
 <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-
 ### Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
-
 
 ### AI Technologies
 
@@ -65,23 +58,19 @@ Building scalable web and mobile applications with modern technologies.
 - Prompt Engineering
 - AI Workflow Automation
 
-
 ---
 
 # 💼 Experience
 
-
 <table>
 <tr>
 <td>🗓️</td>
-
 <td>
 
 ## Full Stack Developer Intern  
 ### Agaram Solution
 
 **June 2025 – August 2025**
-
 
 - Developed responsive enterprise modules using **Angular 17 Standalone Components**
 - Built reusable UI components using **Angular Material & Tailwind CSS**
@@ -96,31 +85,23 @@ Building scalable web and mobile applications with modern technologies.
 - Used Git/GitHub workflow for version control
 - Managed Linux and Docker development environments
 
-
 </td>
 </tr>
 </table>
-
 
 ---
 
 # 🚀 Featured Projects
 
-
 # 🔍 Job Scam Detector AI
 
-
 <a href="https://github.com/Kartheeswaran0512/job-scam-detector">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=job-scam-detector&theme=radical"/>
-
 </a>
-
 
 ## 📌 Description
 
 AI-powered job verification system that analyzes job postings and detects possible fraud before users apply.
-
 
 ## ✨ Features
 
@@ -131,16 +112,11 @@ AI-powered job verification system that analyzes job postings and detects possib
 - Multi-factor evaluation
 - Secure API communication
 
-
 ## 🛠 Tech Stack
 
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,mysql,github"/>
-
 </p>
-
 
 AI:
 
@@ -148,7 +124,6 @@ AI:
 - Agentic AI
 - ReAct Reasoning Pattern
 - Prompt Engineering
-
 
 ## ⚙️ Advanced Concepts
 
@@ -158,27 +133,19 @@ AI:
 - Data validation
 - Error handling
 
-
-
 ---
 
 # 🎫 AI Support Ticket System
 
-
 <a href="https://github.com/Kartheeswaran0512/support_ticket_system">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=support_ticket_system&theme=radical"/>
-
 </a>
-
 
 ## 📌 Description
 
 Enterprise support management platform with authentication, ticket workflow, AI responses and dashboard analytics.
 
-
 ## ✨ Features
-
 
 - User ticket creation
 - Admin ticket management
@@ -190,19 +157,13 @@ Enterprise support management platform with authentication, ticket workflow, AI 
 - Dashboard analytics
 - AI generated responses
 
-
 ## 🛠 Tech Stack
 
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=angular,typescript,nodejs,express,mysql,tailwind,docker,linux"/>
-
 </p>
 
-
 ## ⚙️ Advanced Concepts
-
 
 - Angular 17 Standalone Architecture
 - JWT Authentication
@@ -213,23 +174,17 @@ Enterprise support management platform with authentication, ticket workflow, AI 
 - Docker Environment Setup
 - Production Deployment
 
-  # 🔗 URL Shortener
-
+# 🔗 URL Shortener
 
 <a href="https://github.com/Kartheeswaran0512/url-shortener-node">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=url-shortener-node&theme=radical"/>
-
 </a>
-
 
 ## 📌 Description
 
 High-performance URL shortening service built with Node.js, MySQL and Redis caching to improve response time and reduce database load.
 
-
 ## ✨ Features
-
 
 - Create short URLs
 - Redirect users instantly
@@ -239,19 +194,13 @@ High-performance URL shortening service built with Node.js, MySQL and Redis cach
 - Redis caching
 - REST API integration
 
-
 ## 🛠 Tech Stack
 
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,docker,github"/>
-
 </p>
 
-
 ## ⚙️ Advanced Concepts
-
 
 - Cache Aside Pattern
 - Redis In-Memory Storage
@@ -260,27 +209,19 @@ High-performance URL shortening service built with Node.js, MySQL and Redis cach
 - Backend Performance Improvement
 - Scalable URL generation
 
-
-
 ---
 
 # 🧩 Data Structures & Algorithms Repository
 
-
 <a href="https://github.com/Kartheeswaran0512">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=dsa&theme=radical"/>
-
 </a>
-
 
 ## 📌 Description
 
 Collection of DSA solutions focused on improving problem-solving skills and interview preparation.
 
-
 ## Topics Covered
-
 
 - Arrays
 - Strings
@@ -293,22 +234,15 @@ Collection of DSA solutions focused on improving problem-solving skills and inte
 - Graphs
 - Dynamic Programming
 
-
 ## 🛠 Languages
 
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=cpp,java,javascript"/>
-
 </p>
-
-
 
 ---
 
 # 🏆 Achievements & Certifications
-
 
 - 🧩 Solved **250+ Data Structures & Algorithms problems**
 - 📚 Practiced coding patterns:
@@ -325,38 +259,31 @@ Collection of DSA solutions focused on improving problem-solving skills and inte
   - C
   - SQL
 
-
-
 ---
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Kartheeswaran0512&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheeswaran0512&theme=radical&hide_border=true" height="165"/>
-
 </p>
-
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheeswaran0512&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-
 <img src="https://github-profile-trophy.vercel.app/?username=Kartheeswaran0512&theme=radical&no-frame=true&row=2&column=3" height="165"/>
-
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartheeswaran0512&theme=react-dark" />
+</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kartheeswaran0512/Kartheeswaran0512/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 # 📈 Currently Learning
-
 
 - ☁️ Cloud Computing
 - 🐳 Docker & Containerization
@@ -364,59 +291,39 @@ Collection of DSA solutions focused on improving problem-solving skills and inte
 - 🚀 System Design Basics
 - 🤖 Advanced AI Application Development
 
-
-
 ---
 
 # 📫 Let's Connect
 
-
 <p align="center">
 
-
 <a href="https://kartheeswaran0512.github.io/my-portfolio/">
-
 <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge"/>
-
 </a>
-
 
 <a href="http://www.linkedin.com/in/kartheeswaran-k-14579a217">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
-
 
 <a href="mailto:kartheeswarank0512@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
-
 </p>
-
-
 
 ---
 
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</p>
-
 
 <!--
 **Kartheeswaran0512/Kartheeswaran0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
