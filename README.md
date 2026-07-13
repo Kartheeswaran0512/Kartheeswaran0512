@@ -213,6 +213,200 @@ Enterprise support management platform with authentication, ticket workflow, AI 
 - Docker Environment Setup
 - Production Deployment
 
+  # 🔗 URL Shortener
+
+
+<a href="https://github.com/Kartheeswaran0512/url-shortener-node">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=url-shortener-node&theme=radical"/>
+
+</a>
+
+
+## 📌 Description
+
+High-performance URL shortening service built with Node.js, MySQL and Redis caching to improve response time and reduce database load.
+
+
+## ✨ Features
+
+
+- Create short URLs
+- Redirect users instantly
+- URL validation
+- Expiry support
+- Click tracking
+- Redis caching
+- REST API integration
+
+
+## 🛠 Tech Stack
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,docker,github"/>
+
+</p>
+
+
+## ⚙️ Advanced Concepts
+
+
+- Cache Aside Pattern
+- Redis In-Memory Storage
+- Database Indexing
+- API Optimization
+- Backend Performance Improvement
+- Scalable URL generation
+
+
+
+---
+
+# 🧩 Data Structures & Algorithms Repository
+
+
+<a href="https://github.com/Kartheeswaran0512">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=dsa&theme=radical"/>
+
+</a>
+
+
+## 📌 Description
+
+Collection of DSA solutions focused on improving problem-solving skills and interview preparation.
+
+
+## Topics Covered
+
+
+- Arrays
+- Strings
+- Two Pointer Technique
+- Sliding Window
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+
+## 🛠 Languages
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript"/>
+
+</p>
+
+
+
+---
+
+# 🏆 Achievements & Certifications
+
+
+- 🧩 Solved **250+ Data Structures & Algorithms problems**
+- 📚 Practiced coding patterns:
+  - Two Pointer
+  - Sliding Window
+  - Binary Search
+  - Recursion
+  - Dynamic Programming
+  - Graph Algorithms
+
+- 🥇 HackerRank Certifications:
+  - Problem Solving
+  - C++
+  - C
+  - SQL
+
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kartheeswaran0512&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheeswaran0512&theme=radical&hide_border=true" height="165"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheeswaran0512&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kartheeswaran0512&theme=radical&no-frame=true&row=2&column=3" height="165"/>
+
+</p>
+
+
+
+---
+
+# 📈 Currently Learning
+
+
+- ☁️ Cloud Computing
+- 🐳 Docker & Containerization
+- ⚙️ DevOps Practices
+- 🚀 System Design Basics
+- 🤖 Advanced AI Application Development
+
+
+
+---
+
+# 📫 Let's Connect
+
+
+<p align="center">
+
+
+<a href="https://kartheeswaran0512.github.io/my-portfolio/">
+
+<img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge"/>
+
+</a>
+
+
+<a href="http://www.linkedin.com/in/kartheeswaran-k-14579a217">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+<a href="mailto:kartheeswarank0512@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+</p>
+
+
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</p>
+
 
 <!--
 **Kartheeswaran0512/Kartheeswaran0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
