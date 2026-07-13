@@ -41,13 +41,106 @@
 ### 🧑‍💻 About Me
 
 ```text
-const kartheeswaran = {
+import { useState, useEffect } from "react";
+
+export default function KartheeswaranCard() {
+  const kartheeswaran = {
     role: "Full Stack Developer @ AI-Integrated Web Apps",
     location: "Madurai, Tamil Nadu, India",
     education: "B.E. Computer Science, CIT (CGPA: 8.0/10)",
     currentFocus: ["React Native", "System Design", "DSA"],
     goal: "Software Engineer @ a top product company",
-};
+  };
+
+  const [typedGoal, setTypedGoal] = useState("");
+
+  useEffect(() => {
+    let i = 0;
+    const interval = setInterval(() => {
+      setTypedGoal(kartheeswaran.goal.slice(0, i + 1));
+      i++;
+      if (i === kartheeswaran.goal.length) clearInterval(interval);
+    }, 40);
+    return () => clearInterval(interval);
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-slate-950 flex items-center justify-center p-6">
+      <div className="w-full max-w-2xl rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl overflow-hidden">
+        {/* Title bar */}
+        <div className="flex items-center gap-2 px-4 py-3 bg-slate-800 border-b border-slate-700">
+          <span className="w-3 h-3 rounded-full bg-red-500" />
+          <span className="w-3 h-3 rounded-full bg-yellow-500" />
+          <span className="w-3 h-3 rounded-full bg-green-500" />
+          <span className="ml-3 text-slate-400 text-sm font-mono">kartheeswaran.js</span>
+        </div>
+
+        {/* Code body */}
+        <div className="p-6 font-mono text-sm sm:text-base leading-relaxed">
+          <p className="text-purple-400">
+            const <span className="text-blue-400">kartheeswaran</span> ={" "}
+            <span className="text-slate-300">{"{"}</span>
+          </p>
+
+          <p className="pl-6">
+            <span className="text-sky-300">role</span>
+            <span className="text-slate-400">: </span>
+            <span className="text-emerald-400">
+              "{kartheeswaran.role}"
+            </span>
+            <span className="text-slate-400">,</span>
+          </p>
+
+          <p className="pl-6">
+            <span className="text-sky-300">location</span>
+            <span className="text-slate-400">: </span>
+            <span className="text-emerald-400">
+              "{kartheeswaran.location}"
+            </span>
+            <span className="text-slate-400">,</span>
+          </p>
+
+          <p className="pl-6">
+            <span className="text-sky-300">education</span>
+            <span className="text-slate-400">: </span>
+            <span className="text-emerald-400">
+              "{kartheeswaran.education}"
+            </span>
+            <span className="text-slate-400">,</span>
+          </p>
+
+          <p className="pl-6">
+            <span className="text-sky-300">currentFocus</span>
+            <span className="text-slate-400">: [</span>
+          </p>
+          {kartheeswaran.currentFocus.map((item, idx) => (
+            <p key={idx} className="pl-12">
+              <span className="text-emerald-400">"{item}"</span>
+              <span className="text-slate-400">
+                {idx < kartheeswaran.currentFocus.length - 1 ? "," : ""}
+              </span>
+            </p>
+          ))}
+          <p className="pl-6">
+            <span className="text-slate-400">],</span>
+          </p>
+
+          <p className="pl-6">
+            <span className="text-sky-300">goal</span>
+            <span className="text-slate-400">: </span>
+            <span className="text-amber-300">
+              "{typedGoal}
+              <span className="animate-pulse">|</span>"
+            </span>
+            <span className="text-slate-400">,</span>
+          </p>
+
+          <p className="text-slate-300">{"};"}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
 ```
 
 ---
