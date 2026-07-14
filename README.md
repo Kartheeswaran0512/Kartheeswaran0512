@@ -25,9 +25,7 @@
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,reactnative,typescript,javascript,html,css,tailwind&theme=light&bg=6f42c1" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,react,reactnative,typescript,javascript,html,css,tailwind&bg=6f42c1" />
 
 ### Backend
 
