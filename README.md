@@ -1,338 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kartheeswaran%20K&fontSize=40&fontColor=fff&animation=fadeIn"/>
+<h1 align="center">Hi, I'm Kartheeswaran K 👋</h1>
+<p align="center"><b>Full Stack Developer · Angular · React Native · Node.js · AI apps</b></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Developer;AI+Application+Builder" />
+  <a href="https://kartheeswaran0512.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/kartheeswaran-k-14579a217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kartheeswarank0512@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+I build full-stack web and mobile apps with Angular, React Native (Expo), Node.js and MySQL, and I'm increasingly focused on **LLM-powered apps** (Claude / OpenAI APIs, RAG, agent workflows).
+
+## 🛠 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,nodejs,express,mysql,redis,docker,linux,git,postman&perline=13" />
+</p>
+
+## 💼 Experience
+
+**Full Stack Developer Intern, Agaram Solution** · *Jun 2025 – Aug 2025*
+- Built enterprise modules with Angular 17 standalone components, Angular Material and Tailwind
+- Implemented JWT authentication with 3-tier RBAC (Admin / Agent / User)
+- Wrote REST APIs in Node.js + Express on MySQL, and set up Docker/Linux dev environments
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Job Scam Detector**](https://github.com/Kartheeswaran0512/job-scam-detector) | Analyses a job posting and returns a fraud-risk score with reasons | Node.js, Claude API, ReAct agent |
+| [**Support Ticket System**](https://github.com/Kartheeswaran0512/support_ticket_system) | Helpdesk with ticket workflow, agent assignment, AI-drafted replies and analytics | Angular 17, Node.js, MySQL, JWT/RBAC |
+| [**RAG System**](https://github.com/Kartheeswaran0512/Rag-System) | Question answering over your own documents using retrieval-augmented generation | JavaScript, LLM API |
+| [**AI Code Generator & Explainer**](https://github.com/Kartheeswaran0512/AI-code-generator-code-explainer) | Generates code from prompts and explains existing code | TypeScript, LLM API |
+| [**URL Shortener**](https://github.com/Kartheeswaran0512/url-shortener-node) | Short links with expiry and click tracking, cached with Redis (cache-aside) | Node.js, MySQL, Redis |
+| [**E-commerce App**](https://github.com/Kartheeswaran0512/ecommerce-react-native-application) | Cross-platform shopping app | React Native, Expo, TypeScript |
+
+## 🏆 Highlights
+- 250+ DSA problems solved (two pointers, sliding window, DP, graphs)
+- HackerRank certified: Problem Solving, SQL, C++, C
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kartheeswaran0512&color=6f42c1&style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/Kartheeswaran0512/Kartheeswaran0512/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer specializing in **Angular, React Native, Node.js, Express.js & MySQL**
-- 📱 Currently building cross-platform mobile applications using **React Native + Expo**
-- 🔐 Experienced in authentication systems using **JWT & Role Based Access Control**
-- 🤖 Interested in **AI-powered applications and automation**
-- 🧩 Strong foundation in **Data Structures & Algorithms**
-- ☁️ Exploring **Cloud, Docker and DevOps practices**
-
----
-
-# 🧰 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
-</p>
-
-### AI Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- OpenAI API
-- Claude API
-- Prompt Engineering
-- AI Workflow Automation
-
----
-
-# 💼 Experience
-
-<table>
-<tr>
-<td>🗓️</td>
-<td>
-
-## Full Stack Developer Intern  
-### Agaram Solution
-
-**June 2025 – August 2025**
-
-- Developed responsive enterprise modules using **Angular 17 Standalone Components**
-- Built reusable UI components using **Angular Material & Tailwind CSS**
-- Implemented secure authentication using **JWT**
-- Designed **3-tier Role Based Access Control**
-  - Admin
-  - Agent
-  - User
-- Developed REST APIs using **Node.js & Express.js**
-- Worked with MySQL database design and optimization
-- Tested APIs using Postman
-- Used Git/GitHub workflow for version control
-- Managed Linux and Docker development environments
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-# 🔍 Job Scam Detector AI
-
-<a href="https://github.com/Kartheeswaran0512/job-scam-detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=job-scam-detector&theme=radical"/>
-</a>
-
-## 📌 Description
-
-AI-powered job verification system that analyzes job postings and detects possible fraud before users apply.
-
-## ✨ Features
-
-- AI based scam detection
-- Job posting analysis
-- Risk score generation
-- Fraud explanation
-- Multi-factor evaluation
-- Secure API communication
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,javascript,mysql,github"/>
-</p>
-
-AI:
-
-- Claude API
-- Agentic AI
-- ReAct Reasoning Pattern
-- Prompt Engineering
-
-## ⚙️ Advanced Concepts
-
-- AI decision workflow
-- API integration
-- Backend architecture
-- Data validation
-- Error handling
-
----
-
-# 🎫 AI Support Ticket System
-
-<a href="https://github.com/Kartheeswaran0512/support_ticket_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=support_ticket_system&theme=radical"/>
-</a>
-
-## 📌 Description
-
-Enterprise support management platform with authentication, ticket workflow, AI responses and dashboard analytics.
-
-## ✨ Features
-
-- User ticket creation
-- Admin ticket management
-- Agent assignment
-- Priority based tickets
-- Status tracking
-- Comments system
-- File attachments
-- Dashboard analytics
-- AI generated responses
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,typescript,nodejs,express,mysql,tailwind,docker,linux"/>
-</p>
-
-## ⚙️ Advanced Concepts
-
-- Angular 17 Standalone Architecture
-- JWT Authentication
-- Role Based Access Control
-- REST API Architecture
-- Database Relationships
-- MySQL Query Optimization
-- Docker Environment Setup
-- Production Deployment
-
-# 🔗 URL Shortener
-
-<a href="https://github.com/Kartheeswaran0512/url-shortener-node">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=url-shortener-node&theme=radical"/>
-</a>
-
-## 📌 Description
-
-High-performance URL shortening service built with Node.js, MySQL and Redis caching to improve response time and reduce database load.
-
-## ✨ Features
-
-- Create short URLs
-- Redirect users instantly
-- URL validation
-- Expiry support
-- Click tracking
-- Redis caching
-- REST API integration
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,docker,github"/>
-</p>
-
-## ⚙️ Advanced Concepts
-
-- Cache Aside Pattern
-- Redis In-Memory Storage
-- Database Indexing
-- API Optimization
-- Backend Performance Improvement
-- Scalable URL generation
-
----
-
-# 🧩 Data Structures & Algorithms Repository
-
-<a href="https://github.com/Kartheeswaran0512">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartheeswaran0512&repo=dsa&theme=radical"/>
-</a>
-
-## 📌 Description
-
-Collection of DSA solutions focused on improving problem-solving skills and interview preparation.
-
-## Topics Covered
-
-- Arrays
-- Strings
-- Two Pointer Technique
-- Sliding Window
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-
-## 🛠 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript"/>
-</p>
-
----
-
-# 🏆 Achievements & Certifications
-
-- 🧩 Solved **250+ Data Structures & Algorithms problems**
-- 📚 Practiced coding patterns:
-  - Two Pointer
-  - Sliding Window
-  - Binary Search
-  - Recursion
-  - Dynamic Programming
-  - Graph Algorithms
-
-- 🥇 HackerRank Certifications:
-  - Problem Solving
-  - C++
-  - C
-  - SQL
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kartheeswaran0512&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheeswaran0512&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheeswaran0512&layout=compact&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Kartheeswaran0512&theme=radical&no-frame=true&row=2&column=3" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartheeswaran0512&theme=react-dark" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kartheeswaran0512/Kartheeswaran0512/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 📈 Currently Learning
-
-- ☁️ Cloud Computing
-- 🐳 Docker & Containerization
-- ⚙️ DevOps Practices
-- 🚀 System Design Basics
-- 🤖 Advanced AI Application Development
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://kartheeswaran0512.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge"/>
-</a>
-
-<a href="http://www.linkedin.com/in/kartheeswaran-k-14579a217">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kartheeswarank0512@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-<!--
-**Kartheeswaran0512/Kartheeswaran0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
